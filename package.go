@@ -10,4 +10,5 @@ func main() {
 	avg := m.Avg(xs)
 	fmt.Println(avg)
 	fmt.Println("Nice")
+	fmt.Println("dfgdf")
 }
